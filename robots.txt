@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wordbite.com/sitemap.xml
